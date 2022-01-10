@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bas_neyt@hotmail.com
+	name = Sebastien Neyt
